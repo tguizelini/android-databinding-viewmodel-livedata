@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DataBindViewModel</string>
+    <string name="app_name">DataBinding - VM - LiveData</string>
+    <string name="button_count">Count</string>
 </resources>
